@@ -1,0 +1,3 @@
+rootProject.name = 'JustTributeApp'
+
+include ':app'
